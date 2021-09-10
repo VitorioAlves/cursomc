@@ -1,0 +1,29 @@
+[33mcommit 4b051826ddb87d9f20e382ab7cc88aba3284760c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vitorio Alves <vitoriog12@gmail.com>
+Date:   Mon Sep 6 11:57:59 2021 -0300
+
+    Criando repository e service para Categoria
+
+[33mcommit 537727d7a24776d1f3fb4c31840e8dac1ca20a13[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Vitorio Alves <vitoriog12@gmail.com>
+Date:   Wed Sep 1 11:58:09 2021 -0300
+
+    Banco de Dados H2 e Criação automatica da base de dados
+
+[33mcommit 1fa9d926e34f1b3589176ad611925d705ba307bd[m
+Author: Vitorio Alves <vitoriog12@gmail.com>
+Date:   Mon Aug 30 11:40:34 2021 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit 3f07910e428538d0cfb9dab65ff5f5843ff59062[m
+Author: Vitorio Alves <vitoriog12@gmail.com>
+Date:   Sun Aug 29 19:47:18 2021 -0300
+
+    REST testado
+
+[33mcommit 172ee4077242a90d4d2b1049dd0f6dcf97f75be6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Vitorio Alves <vitoriog12@gmail.com>
+Date:   Sun Aug 29 18:05:13 2021 -0300
+
+    Projeto criado
